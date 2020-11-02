@@ -5,7 +5,7 @@ booklets published by Paul C. Moews during the late ’70s and early ’80s.
 
 **All scans in this repository are provided for noncommercial use only.** Big
 thanks to Paul for providing the scans and granting permission to post them
-here.
+here. (Be sure to check out [Paul’s 3D models on Thingiverse]!)
 
 ## Table of contents
 
@@ -21,6 +21,7 @@ here.
 - [VIPER]
 - [Tom Swan’s Pips for VIPs]
 
+[Paul’s 3D models on Thingiverse]: https://www.thingiverse.com/pmoews/designs
 [cosmacelf.com]: http://www.cosmacelf.com/
 [VIPER]: https://github.com/mattmikolay/viper
 [Tom Swan’s Pips for VIPs]: https://github.com/TomSwan/pips-for-vips
